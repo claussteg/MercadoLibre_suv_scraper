@@ -1,4 +1,4 @@
 # MercadoLibre_suv_scraper
-[![Python application](https://github.com/frNNcs/MercadoLibre_suv_scraper/actions/workflows/python-app.yml/badge.svg)](https://github.com/frNNcs/MercadoLibre_suv_scraper/actions/workflows/python-app.yml)
-
-##### Web Scraper sobre las SUV de Mercado Libre
+Web Scraper sobre autos de Mercado Libre. Es un fork de la version original creada por frNNcs.
+La principal variacion es que permite correr para varios modelos.  Para ello se debe dejar un archivo "Modelos.csv" con el listado de modelos a scrapear.  Luego dejará en la misma carpeta el output de cada corrida, "MODELO.csv".
+Subo una copia de "modelos.csv" para referencia.
